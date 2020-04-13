@@ -1,0 +1,2 @@
+D:\2020program\Baekjoon\BaekJoon\Bruteforce\Debug\Bruteforce.exe
+D:\2020program\Baekjoon\BaekJoon\Bruteforce\Debug\Bruteforce.pdb
